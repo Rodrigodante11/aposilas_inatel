@@ -1,0 +1,9 @@
+pk dentro da classe construtor BuscaInimigo tem um serviço?
+Injeção de dependencia 
+
+pk tem uma injeção de dependia do controtuor BuscaInimigo?
+
+a classe testada buscaInimiga tem a injecao de dependia para poder tenta pegar a busca mock(simulada) ou a busca real ,
+preparada pra aceita tanto uma quanto a outra
+
+Classe Pojo(so tem getter e setter) nao precisa fazer teste, e nao fazer teste de codigos de terceiros e nao mockar tudo
